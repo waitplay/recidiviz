@@ -1,0 +1,62 @@
+.main-screen-content {
+    padding-left: 64px;
+    padding-top: 147px;
+}
+.title {
+    font-size: 38px;
+    line-height: 44px;
+    color: #fff;
+    font-family: 'LibreBaskerville';
+    font-weight: 400;
+    width: 535px;
+    padding-bottom: 29px;
+}
+.sub-title {
+    font-family: 'PublicSans';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #fff;
+    width: 542px;
+    padding-bottom: 29px;
+}
+.main-title-button {
+    font-family: 'PublicSans';
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    padding: 17px 33px 17px 33px;
+    background: none;
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 80px;
+    cursor: pointer;
+}
+.trusted-in {
+    padding-top: 122px;
+}
+.trusted-in p {
+    color: #fff;
+    font-family: 'PublicSans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+.trusted-in-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.trusted-in-row-item {
+    border-top: 1px solid rgba(255, 255, 255, 0.6);
+    width: 165px;
+    color: #fff;
+    font-family: 'PublicSans';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    margin-right: 32px;
+    padding-top: 17px;
+}

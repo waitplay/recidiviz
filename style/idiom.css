@@ -1,0 +1,30 @@
+.idiom {
+    display: flex;
+    flex-direction: row;
+    background: #001414;
+
+}
+.idiom-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 81px;
+    margin-right: 83px;
+}
+.idiom-content p {
+    font-family: 'PublicSans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #fff;
+}
+.idiom-content h4 {
+    font-family: 'PublicSans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+    color: #fff;
+    padding-bottom: 21px;
+}

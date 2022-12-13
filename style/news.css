@@ -1,0 +1,25 @@
+.news {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 24px;
+    padding-bottom: 22px;
+}
+.news-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-top: 1px solid rgba(53, 83, 98, 0.3);
+    width: 165px;
+    padding-top: 16px;
+}
+.news-item p {
+    padding-left: 8px;
+    width: 130px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    font-family: 'PublicSans';
+    color: rgba(53, 83, 98, 0.8);
+}
